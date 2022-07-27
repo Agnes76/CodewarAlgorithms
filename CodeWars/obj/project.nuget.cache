@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10I1vmfNvCQ3BZPyPxbaxJeO7w9LD00D60pONuOsg8Cnt+sY900VpEHTY2fgVVLQvvd5EUnT+QQGCa9Nbaj5eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\Project\\Payment\\CodingChallenge\\CodeWars\\CodeWars\\CodeWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

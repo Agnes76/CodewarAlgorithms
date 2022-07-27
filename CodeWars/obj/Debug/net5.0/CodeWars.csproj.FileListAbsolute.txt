@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.AssemblyInfo.cs
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.exe
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.deps.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.runtimeconfig.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.runtimeconfig.dev.json
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\ref\CodeWars.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\bin\Debug\net5.0\CodeWars.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\ref\CodeWars.dll
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.pdb
+C:\Users\hp\Documents\Project\Payment\CodingChallenge\CodeWars\CodeWars\obj\Debug\net5.0\CodeWars.genruntimeconfig.cache
