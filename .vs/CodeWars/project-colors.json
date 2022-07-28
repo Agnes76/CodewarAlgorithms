@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a128e80c-2254-46f5-91f2-e1dcc3cd2791": {
+      "ProjectGuid": "a128e80c-2254-46f5-91f2-e1dcc3cd2791",
+      "DisplayName": "CodeWars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
